@@ -1,16 +1,27 @@
-## Hi there 👋
+![banner](https://github.com/user-attachments/assets/e84e28cd-58c8-4e71-b3b1-79d3952db322)
 
-<!--
-**xxdfv3/xxdfv3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello, my name is Mikhail.
 
-Here are some ideas to get you started:
+> I'm study from university 🏫. 
+> - 🔭 I'm currently working on this page.
+> - 🌱 I’m currently learning Software engineering.
+> - 📫 How to reach me: xxdfv3 (Telegram)
+> - 😁 Pronouns: He/Him
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> <b>Skills:</b>
+>
+> Editor 📝 | Junior developer 💻 | Trying in design 🎨
+<hr>
+
+> <b>Tool's and Platform's:</b>
+>
+> [![My Skills](https://skillicons.dev/icons?i=pycharm,vscode,obsidian,figma,apple,windows)](https://skillicons.dev)
+> 
+<hr>
+
+> <b>Coding in:</b>
+>
+> [![My language](https://skillicons.dev/icons?i=python,js,html,css&perline=4)](https://skillicons.dev)
+
+
