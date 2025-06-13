@@ -6,7 +6,6 @@
 > - 🔭 I'm currently working on this page.
 > - 🌱 I’m currently learning Software engineering.
 > - 📫 How to reach me: xxdfv3 (Telegram)
-> - 😁 Pronouns: He/Him
 > <hr>
 >
 > <b>Skills:</b>
